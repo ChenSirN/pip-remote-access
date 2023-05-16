@@ -50,7 +50,7 @@ def getRemoteAccess():
     PORT = 1234
     sock=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     QUIT = 0
-    IP = "127.0.0.1"
+    IP = "47.100.177.143"
     print (IP)
     while True:
         try:
